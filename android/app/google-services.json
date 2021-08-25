@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "703110755726",
+    "project_id": "people-chat-723f5",
+    "storage_bucket": "people-chat-723f5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:703110755726:android:bcc5fda0bf3385cb9c20df",
+        "android_client_info": {
+          "package_name": "com.people_chat.people_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "703110755726-4rra6hbh16ir22cda7t11uesiq9kruqj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo0z1VfR5pDB6DUmWT2nBv0ruRGVGxhtQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "703110755726-4rra6hbh16ir22cda7t11uesiq9kruqj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
